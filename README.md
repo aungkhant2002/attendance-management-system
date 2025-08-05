@@ -43,7 +43,8 @@ A full-featured web-based Attendance Management System built for our University 
 ---
 
 ## 📷 Screenshots
-
+![HomePage](images/1.png)
+*Home Page*
 ---
 
 ## 🚀 Getting Started
