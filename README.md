@@ -43,8 +43,33 @@ A full-featured web-based Attendance Management System built for our University 
 ---
 
 ## 📷 Screenshots
-![HomePage](images/1.png)
 *Home Page*
+![HomePage](images/1.png)
+
+*Login Page*
+![LoginPage](images/2.png)
+
+*Admin Dashboard Page*
+![DashboardPage](images/3.png)
+
+*Teacher Register Form*
+![DashboardPage](images/6.png)
+
+*Teacher List View*
+![DashboardPage](images/5.png)
+
+*Manage Semester*
+![DashboardPage](images/7.png)
+
+*Student Dashboard*
+![DashboardPage](images/8.png)
+
+*Calculate Student Marks*
+![DashboardPage](images/9.png)
+
+*Responsive Design*
+![DashboardPage](images/10.png)
+
 ---
 
 ## 🚀 Getting Started
