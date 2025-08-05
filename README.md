@@ -1,36 +1,48 @@
-# 🕒 Attendance Management System
+# 🕒 Attendance Management System (AMS)
 
-A full-featured Attendance Management System built with **Spring Boot**, allowing Admins, Teachers, and Students to manage and track attendance efficiently.
-
----
-
-## 📌 Features
-
-- 🧑‍🏫 Admin Panel:
-  - User and role management
-  - Shift and leave type configuration
-  - View reports and analytics
-
-- 👨‍🏫 Teacher Panel:
-  - Take and update attendance
-  - View class rosters and attendance history
-
-- 👩‍🎓 Student Panel:
-  - View attendance status
-
-- 🔒 Authentication & Authorization
-- 📊 Dashboard and Reports
-- 🗂️ Role-based Access Control
+A full-featured web-based Attendance Management System built for our University Final Year Project. It supports multiple user roles (Admin, Teachers, Class Roasters, Students) and simplifies the process of tracking, managing, and reporting student attendance.
 
 ---
 
-## ⚙️ Technologies Used
+## 🔑 Roles & Responsibilities
 
-- **Backend**: Spring Boot, Spring Data JPA, Spring Security
-- **Database**: MySQL
-- **Build Tool**: Maven
-- **Frontend**: Thymeleaf
-- **Others**: Lombok, ModelMapper, JWT (optional)
+### 👤 Admin (My Role)
+- Create, update, and manage all user roles
+- Configure attendance rules and policies
+- View and export attendance reports
+- Send notifications to users
+
+### 🎓 Student (My Role)
+- Login to check in/out for classes
+- View personal attendance history
+- Receive announcements or warnings
+
+> 🔄 Other roles like **Teachers** and **Class Roasters** were handled by the other team group.
+
+---
+
+## 🛠 Tech Stack
+
+| Layer       | Technology |
+|-------------|------------|
+| Frontend    | HTML, CSS, JavaScript, Bootstrap |
+| Backend     | Spring Boot |
+| Database    | MySQL |
+| Tools       | VS Code, GitHub |
+
+---
+
+## 📌 Key Features
+
+- ✅ Role-based login and access control
+- ✅ Daily attendance check-in/out with timestamps
+- ✅ Real-time notifications
+- ✅ Attendance history and reporting
+- ✅ Responsive UI design
+
+---
+
+## 📷 Screenshots
 
 ---
 
